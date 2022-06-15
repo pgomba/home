@@ -1,0 +1,23 @@
+baseURL: https://pagomba.netlify.app/
+disableKinds:
+  - section
+  - taxonomy
+  - term
+  - RSS
+  - robotsTXT
+defaultContentLanguage: en
+theme: hugo-scroll
+title: pagomba
+params:
+  copyright: © Pablo Gómez Barreiro
+  description: Pablo Gómez Barreiro homepage
+  favicon: favicon.ico
+  images:
+  - images/cover-image.jpg
+  meta:
+    keywords: seed, science, Pablo Gómez, photography, macro, germination, R
+    title: Pablo Gómez Barreiro homepage
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  

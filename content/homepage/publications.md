@@ -1,0 +1,54 @@
+---
+title: "Publications"
+weight: 2
+header_menu: true
+---
+
+<br>
+
+**Gómez Barreiro, P**., Mattana, E., Coleshill, D., Castillo-Lorenzo, E., Sanogo, S., Wilkin, P., & Ulian, T. (2022). The role of fruit traits on the germination of *Mesosphaerum suaveolens* and *Cantinoa americana* (Lamiaceae), two pesticidal plant species. *Scientia Horticulturae*, 295, 110839. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0304423821009468)
+
+<br>
+
+Visscher, A. M., Frances, A. L., Yeo, M., Yan, J., Colville, L., **Gómez Barreiro, P**., & Pritchard, H. W. (2021). Comparative analyses of extreme dry seed thermotolerance in five Cactaceae species. *Environmental and Experimental Botany*, 188, 104514. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0098847221001441)
+
+<br>
+
+Newton, R. J., Mackenzie, B. D., Lamont, B. B., **Gómez Barreiro, P**., Cowling, R. M., & He, T. (2021). Fire-mediated germination syndromes in *Leucadendron* (Proteaceae) and their functional correlates. *Oecologia*, 196(2), 589-604. [Link](https://link.springer.com/article/10.1007/s00442-021-04947-2)
+
+<br>
+
+Mattana, E., **Gómez Barreiro, P**., Hani, N. Y., Abulaila, K., & Ulian, T. (2021). Physiological and environmental control of seed germination timing in Mediterranean mountain populations of *Gundelia tournefortii*. *Plant Growth Regulation*, 1-10. [Link](https://link.springer.com/article/10.1007/s10725-021-00717-5)
+
+<br>
+
+Mattana, E., Peguero, B., Di Sacco, A., Agramonte, W., Encarnación Castillo, W. R., Jiménez, F., ... & Ulian, T. (2020). Assessing seed desiccation responses of native trees in the Caribbean. *New Forests*, 51(4), 705-721. [Link](https://link.springer.com/article/10.1007/s11056-019-09753-6)
+
+<br>
+
+**Gómez Barreiro, P**., Otieno, V., Mattana, E., Castillo-Lorenzo, E., Omondi, W., & Ulian, T. (2019). Interaction of functional and environmental traits on seed germination of the multipurpose tree *Flacourtia indica*. *South African Journal of Botany*, 125, 427-433. [Link](https://www.sciencedirect.com/science/article/pii/S0254629919307902)
+
+<br>
+
+Mattana, E., **Gómez Barreiro, P**., Lötter, M., Hankey, A. J., Froneman, W., Mamatsharaga, A., ... & Ulian, T. (2019). Morphological and functional seed traits of the wild medicinal plant *Dioscorea strydomiana*, the most threatened yam in the world. *Plant Biology*, 21(3), 515-522. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/plb.12887)
+
+<br>
+
+Ulian, T., Flores, C., Lira, R., Mamatsharaga, A., Mogotsi, K. K., Muthoka, P., ... & Mattana, E. (2019). Wild plants for a sustainable future. Kew Publishing. [PDF](https://www.google.com/search?client=firefox-b-d&q=Wild+plants+for+a+sustainable+future+kew), [Hard copy](https://shop.kew.org/wild-plants-for-a-sustainable-future)
+
+<br>
+
+Visscher, A. M., Yeo, M., **Gómez Barreiro, P**., Stuppy, W., Frances, A. L., Di Sacco, A., ... & Pritchard, H. W. (2018). Dry heat exposure increases hydrogen peroxide levels and breaks physiological seed coat-imposed dormancy in *Mesembryanthemum crystallinum* (Aizoaceae) seeds. *Environmental and Experimental Botany*, 155, 272-280. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0098847218308694)
+
+<br>
+
+Mattana, E., Sacande, M., Bradamante, G., **Gómez Barreiro, P**., Sanogo, S., & Ulian, T. (2018). Understanding biological and ecological factors affecting seed germination of the multipurpose tree *Anogeissus leiocarpa*. *Plant Biology*, 20(3), 602-609. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/plb.12702)
+
+<br>
+
+Mattana, E., Sacande, M., Sanogo, K. A., Lira, R., **Gómez Barreiro, P**., Rogledi, M., & Ulian, T. (2017). Thermal requirements for seed germination of underutilized *Lippia* species. *South African Journal of Botany*, 109, 223-230. [Link](https://www.sciencedirect.com/science/article/pii/S0254629916300424)
+
+<br>
+
+[![](/images/rg.png)](https://www.researchgate.net/profile/Pablo-Gomez-Barreiro/research) [![](/images/orcid.png)](https://orcid.org/0000-0002-3140-3326) [![](/images/scholar.png)](https://scholar.google.com/citations?user=CeSB2tQAAAAJ&hl=es)
+
