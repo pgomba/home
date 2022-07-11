@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 weight: 2
-header_menu: tru
+header_menu: true
 ---
 
 <br>
