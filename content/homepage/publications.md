@@ -6,6 +6,10 @@ header_menu: true
 
 <br>
 
+Lamont, B., **Gómez Barreiro, P**., Newton, R. J.. (2022). Seed-coat thickness explains contrasting germination responses to smoke and heat in Leucadendron. *Seed Science Research*. [Link](https://www.cambridge.org/core/journals/seed-science-research/article/seedcoat-thickness-explains-contrasting-germination-responses-to-smoke-and-heat-in-leucadendron/1E6D41710E76456DD8C23F0118639680)
+
+<br>
+
 **Gómez Barreiro, P**., Mattana, E., Coleshill, D., Castillo-Lorenzo, E., Sanogo, S., Wilkin, P., & Ulian, T. (2022). The role of fruit traits on the germination of *Mesosphaerum suaveolens* and *Cantinoa americana* (Lamiaceae), two pesticidal plant species. *Scientia Horticulturae*, 295, 110839. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0304423821009468)
 
 <br>
